@@ -6,7 +6,7 @@ This document defines the roles within The Reef, the official OpenOctopus commun
 
 - [Role Overview](#role-overview)
 - [Role Definitions](#role-definitions)
-  - [1. Reef Dweller](#1-reef-dweller)
+  - [1. Reef Member](#1-reef-dweller)
   - [2. Summoner](#2-summoner)
   - [3. Realm Builder](#3-realm-builder)
   - [4. Tentacler](#4-tentacler)
@@ -23,13 +23,13 @@ This document defines the roles within The Reef, the official OpenOctopus commun
 | **Tentacler** | Cyan `#00D4AA` | `@Tentacler` | Active code contributors |
 | **Realm Builder** | Ocean `#1E3A5F` | `@Realm Builder` | Realm package creators and domain experts |
 | **Summoner** | Gold `#FFD700` | `@Summoner` | SOUL.md authors and Entity design specialists |
-| **Reef Dweller** | Default | `@Reef Dweller` | Community members (default role) |
+| **Reef Member** | Default | `@Reef Member` | Community members (default role) |
 
 Roles are **additive** — a person can hold multiple roles simultaneously. For example, an @Octo Core member who also writes SOUL.md templates holds both @Octo Core and @Summoner.
 
 ## Role Definitions
 
-### 1. Reef Dweller
+### 1. Reef Member
 
 **The foundation of The Reef.** Every community member starts here.
 
@@ -70,7 +70,7 @@ Summoners understand the art and craft of personality design, writing SOUL.md fi
 - Participate in Summon of the Month judging when invited
 
 **Privileges:**
-- All Reef Dweller privileges
+- All Reef Member privileges
 - `@Summoner` Discord role with gold color
 - Featured author credit in the Soul Gallery
 - Eligible to judge Summon of the Month competitions
@@ -102,7 +102,7 @@ Realm Builders design and implement Realm packages — self-contained domain sol
 - Help review other Realm package submissions
 
 **Privileges:**
-- All Reef Dweller privileges
+- All Reef Member privileges
 - `@Realm Builder` Discord role with ocean color
 - Listed as a Realm package author in RealmHub
 - Priority review for new Realm package submissions
@@ -135,7 +135,7 @@ Tentaclers have demonstrated consistent, high-quality contributions to the OpenO
 - Attend Dev Standup calls when possible (at least once per month)
 
 **Privileges:**
-- All Reef Dweller privileges
+- All Reef Member privileges
 - `@Tentacler` Discord role with cyan color
 - Write access to non-protected branches in OpenOctopus repositories
 - Ability to approve and merge Tier 1 pull requests
@@ -194,7 +194,7 @@ Tentaclers have demonstrated consistent, high-quality contributions to the OpenO
 The following diagram illustrates the typical progression through community roles:
 
 ```
-Reef Dweller
+Reef Member
     |
     |--- Share SOUL.md / Entity designs ---------> Summoner
     |

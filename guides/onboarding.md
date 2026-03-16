@@ -75,7 +75,7 @@ The Reef has five roles that reflect your level of involvement:
 
 | Role | How to Earn |
 |------|-------------|
-| **@Reef Dweller** | Join the community (automatic) |
+| **@Reef Member** | Join the community (automatic) |
 | **@Summoner** | Share creative SOUL.md designs |
 | **@Realm Builder** | Publish Realm packages |
 | **@Tentacler** | Get 3+ pull requests merged |

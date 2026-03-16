@@ -41,25 +41,25 @@ Join us: **[discord.gg/openoctopus](https://discord.gg/openoctopus)**
 
 | Category | Channels | Purpose |
 |----------|----------|---------|
-| **INFO** | `#rules`, `#announcements`, `#roadmap` | Community rules, official updates, development roadmap |
-| **GENERAL** | `#general`, `#introductions`, `#showcase`, `#ideas`, `#off-topic` | Daily discussion, self-introductions, project showcases |
-| **REALMS** | `#realm-pet`, `#realm-family`, `#realm-finance`, `#realm-work`, `#realm-legal`, `#realm-health`, `#realm-custom` | Domain-specific discussions |
-| **SUMMON** | `#summon-showcase`, `#entity-design`, `#summon-ideas` | Show off summoned entities, discuss SOUL.md design |
-| **DEV** | `#dev-general`, `#tentacle-cli`, `#ink-gateway`, `#realmhub`, `#contributions` | Developer discussion, PRs, code review |
-| **HELP** | `#setup-help`, `#bug-reports`, `#feature-requests` | Support and issue reporting |
-| **VOICE** | `General Voice`, `Dev Standup` | Voice chat and developer standups |
+| **📋 INFO** | `#start-here`, `#rules`, `#announcements`, `#roadmap` | Orientation, community rules, official updates, development roadmap |
+| **💬 GENERAL** | `#general`, `#introductions`, `#showcase`, `#ideas`, `#off-topic` | Daily discussion, self-introductions, project showcases |
+| **🌍 REALMS** | `#realm-pet`, `#realm-family`, `#realm-finance`, `#realm-work` | Domain-specific discussions |
+| **✨ SUMMON** | `#summon-showcase`, `#entity-design` | Show off summoned entities, discuss SOUL.md design |
+| **🛠️ DEV** | `#dev-general`, `#tentacle-cli`, `#contributing` | Developer discussion, CLI tooling, contribution guide |
+| **❓ HELP** | `#setup-help`, `#bug-reports`, `#feature-requests` | Support and issue reporting |
+| **🔊 VOICE** | `General Voice`, `Dev Standup` | Voice chat and developer standups |
 
 ## Community Rules
 
-1. **Be respectful.** Treat others as you would treat a friendly octopus.
-2. **Stay on topic.** Use the right channel for your message.
-3. **No spam.** No self-promotion or advertising without permission.
-4. **No NSFW content.**
-5. **Help others.** Share knowledge, not judgement.
-6. **Bilingual welcome.** English and Chinese are both spoken here.
-7. **Report issues.** Contact `@Octo Core` or use ModMail for problems.
+1. **Be respectful and constructive.** Treat everyone with kindness. No harassment, personal attacks, hate speech, or discrimination.
+2. **Keep discussions on-topic.** Use the appropriate channels. Off-topic chat goes in `#off-topic`.
+3. **No spam or unsolicited self-promotion.** Share your OpenOctopus projects in `#showcase`. Don't post ads or affiliate links.
+4. **No unsolicited DMs.** Don't DM other members without permission. Use public channels first.
+5. **Search before asking.** Check `#setup-help` and the docs before posting a new question.
+6. **Use English in public channels.** This helps everyone participate in the conversation.
+7. **Follow Discord's Terms of Service.** No NSFW, illegal, or pirated content.
 
-Violations follow a progressive system: warning, mute, ban.
+Enforcement: friendly reminder → formal warning → temporary timeout → ban.
 
 ## Roles
 

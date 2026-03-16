@@ -9,7 +9,7 @@ Complete guide to setting up and configuring The Reef — the official OpenOctop
 | **Server Name** | The Reef |
 | **Description** | Official community for OpenOctopus — the realm-native life agent system |
 | **Invite Link** | `discord.gg/openoctopus` (Vanity URL, requires Boost Level 3) |
-| **Languages** | English (primary), Chinese welcome |
+| **Languages** | English |
 
 ## Creating the Server
 
@@ -46,63 +46,58 @@ Organize life by realms. Summon anything into a living agent.
 
 ## Channel Structure
 
-### INFO (Read-Only)
-
-| Channel | Type | Permissions | Purpose |
-|---------|------|-------------|---------|
-| `#rules` | Text | Read-only | Community rules |
-| `#announcements` | Announcement | Read-only | Official announcements, release notes |
-| `#roadmap` | Text | Read-only | Development roadmap and progress |
-
-### GENERAL
-
-| Channel | Purpose |
-|---------|---------|
-| `#general` | Casual discussion |
-| `#introductions` | New member introductions |
-| `#showcase` | Share your Realm configs, Summon screenshots, experiences |
-| `#ideas` | Feature suggestions and discussion |
-| `#off-topic` | Non-project chat |
-
-### REALMS (Domain Discussion)
+### 📋 INFO
 
 | Channel | Topic |
 |---------|-------|
-| `#realm-pet` | Pet Realm discussion |
-| `#realm-family` | Family / parenting / relationships |
-| `#realm-finance` | Finance and budgeting |
-| `#realm-work` | Work and productivity |
-| `#realm-legal` | Legal domain |
-| `#realm-health` | Health and fitness |
-| `#realm-custom` | Custom Realm discussion |
+| `#start-here` | New here? Project overview, quick links, and how to navigate this server |
+| `#rules` | Community rules and code of conduct. Please read before participating |
+| `#announcements` | Official project updates and releases. Low-volume, high-signal |
+| `#roadmap` | Development roadmap and milestone tracking |
 
-### SUMMON
+### 💬 GENERAL
 
 | Channel | Topic |
 |---------|-------|
-| `#summon-showcase` | Show off your Summoned Entities |
-| `#entity-design` | Discuss Entity design, SOUL.md writing, personality tuning |
-| `#summon-ideas` | Summon feature ideas and requests |
+| `#general` | Casual discussion about OpenOctopus. For support questions, use #setup-help |
+| `#introductions` | Say hi and tell us about yourself! What realms are you interested in? |
+| `#showcase` | Share what you've built with OpenOctopus. Include a description and screenshots! |
+| `#ideas` | Got an idea for OpenOctopus? Share it here. Upvote ideas you like with reactions |
+| `#off-topic` | Non-project chat, memes, and random fun. Keep it friendly! |
 
-### DEV (Development)
+### 🌍 REALMS
 
 | Channel | Topic |
 |---------|-------|
-| `#dev-general` | General developer discussion |
-| `#tentacle-cli` | CLI tool development |
-| `#ink-gateway` | Agent gateway development |
-| `#realmhub` | RealmHub marketplace |
-| `#contributions` | PR discussion, code review |
+| `#realm-pet` | Pet realm — AI companions for your pets. Share setups, SOUL.md templates, and pet care automation |
+| `#realm-family` | Family realm — AI agents for family coordination. Schedules, communication, care planning |
+| `#realm-finance` | Finance realm — Personal finance agents. Budgets, investments, expense tracking automation |
+| `#realm-work` | Work realm — Career and productivity agents. Task management, meeting prep, project coordination |
 
-### HELP
+### ✨ SUMMON
 
-| Channel | Type | Topic |
-|---------|------|-------|
-| `#setup-help` | Text | Installation and configuration |
-| `#bug-reports` | Text | Bug reports |
-| `#feature-requests` | Forum | Feature requests with threaded discussion |
+| Channel | Topic |
+|---------|-------|
+| `#summon-showcase` | Show off your summoned entities! Share SOUL.md configs and how your AI companions behave |
+| `#entity-design` | Discuss entity design patterns. How to write great SOUL.md files, personality tuning, and proactive rules |
 
-### VOICE
+### 🛠️ DEV
+
+| Channel | Topic |
+|---------|-------|
+| `#dev-general` | General development discussion. Architecture, code questions, and technical decisions |
+| `#tentacle-cli` | Tentacle CLI tool — installation, usage, commands, and troubleshooting |
+| `#contributing` | How to contribute to OpenOctopus. PR workflow, good first issues, and contributor discussions |
+
+### ❓ HELP
+
+| Channel | Topic |
+|---------|-------|
+| `#setup-help` | Need help getting started? Ask here. Include your OS, version, and error messages |
+| `#bug-reports` | Found a bug? Report it here with steps to reproduce. Check existing reports first |
+| `#feature-requests` | Suggest new features or improvements. Use reactions to upvote requests you support |
+
+### 🔊 VOICE
 
 | Channel | Purpose |
 |---------|---------|
@@ -117,11 +112,11 @@ Organize life by realms. Summon anything into a living agent.
 | @Tentacler | Teal | `#00D4AA` | Active code contributors |
 | @Realm Builder | Navy | `#1E3A5F` | Realm package creators |
 | @Summoner | Gold | `#FFD700` | Active Entity/SOUL.md creators |
-| @Reef Dweller | Default | — | Community members (default) |
+| @Reef Member | Default | — | Community members (default) |
 
 ### Role Permissions
 
-| Permission | Octo Core | Tentacler | Realm Builder | Summoner | Reef Dweller |
+| Permission | Octo Core | Tentacler | Realm Builder | Summoner | Reef Member |
 |-----------|-----------|-----------|---------------|----------|--------------|
 | Manage Server | Yes | No | No | No | No |
 | Manage Channels | Yes | No | No | No | No |
@@ -175,17 +170,15 @@ Post the following in `#rules`:
 ```
 The Reef — Community Rules
 
-1. Be respectful. Treat others as you would treat a friendly octopus.
-2. Stay on topic. Use the right channel for your message.
-3. No spam, self-promotion, or advertising without permission.
-4. No NSFW content.
-5. Help others. Share knowledge, not judgement.
-6. English and Chinese are both welcome.
-7. Report issues to @Octo Core or use ModMail.
+1. Be respectful and constructive. No harassment, personal attacks, or discrimination.
+2. Keep discussions on-topic. Use the appropriate channels. Off-topic chat goes in #off-topic.
+3. No spam or unsolicited self-promotion. Share your projects in #showcase.
+4. No unsolicited DMs. Don't DM other members without permission.
+5. Search before asking. Check #setup-help and the docs before posting.
+6. Use English in public channels.
+7. Follow Discord's Terms of Service. No NSFW, illegal, or pirated content.
 
-Violations: warning → mute → ban.
-
-SUMMON responsibly!
+Enforcement: friendly reminder → formal warning → temporary timeout → ban.
 ```
 
 ## Moderation Setup
