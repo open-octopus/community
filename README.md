@@ -15,7 +15,7 @@
   <a href="https://github.com/open-octopus/community/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"></a>
   <a href="#"><img src="https://img.shields.io/badge/Status-Planned-yellow?style=for-the-badge" alt="Status"></a>
   <a href="https://github.com/open-octopus/openoctopus"><img src="https://img.shields.io/badge/Core_Repo-OpenOctopus-6C3FA0?style=for-the-badge" alt="Core"></a>
-  <a href="https://discord.gg/openoctopus"><img src="https://img.shields.io/badge/Discord-The_Reef-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.gg/mwNTk8g5fV"><img src="https://img.shields.io/badge/Discord-The_Reef-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 ---
@@ -35,7 +35,7 @@ This repository contains community policies, governance documents, and operation
 
 ## Discord — The Reef
 
-Join us: **[discord.gg/openoctopus](https://discord.gg/openoctopus)**
+Join us: **[discord.gg/mwNTk8g5fV](https://discord.gg/mwNTk8g5fV)**
 
 ### Channel Structure
 
@@ -91,7 +91,7 @@ Enforcement: friendly reminder → formal warning → temporary timeout → ban.
 
 ### Orient and Observe
 
-- [ ] Join [The Reef](https://discord.gg/openoctopus) and read pinned messages in `#dev-general`
+- [ ] Join [The Reef](https://discord.gg/mwNTk8g5fV) and read pinned messages in `#dev-general`
 - [ ] Read the [CONTRIBUTING.md](https://github.com/open-octopus/.github/blob/main/CONTRIBUTING.md) guide
 - [ ] Clone the core repo and run `pnpm install && pnpm build && pnpm test:unit`
 - [ ] Browse small PRs: filter by `is:open is:pr label:good-first-issue`
@@ -159,7 +159,7 @@ pnpm knip            # Dead code detection
 |----------|-----|
 | Core repo | https://github.com/open-octopus/openoctopus |
 | Website | https://openoctopus.club |
-| Discord (The Reef) | https://discord.gg/openoctopus |
+| Discord (The Reef) | https://discord.gg/mwNTk8g5fV |
 | RealmHub | https://github.com/open-octopus/realmhub |
 | Soul Gallery | https://github.com/open-octopus/soul-gallery |
 | Realm Packages | https://github.com/open-octopus/realms |
@@ -167,7 +167,7 @@ pnpm knip            # Dead code detection
 ## Contact
 
 - **Email**: hello@openoctopus.club
-- **Discord**: [discord.gg/openoctopus](https://discord.gg/openoctopus)
+- **Discord**: [discord.gg/mwNTk8g5fV](https://discord.gg/mwNTk8g5fV)
 - **X / Twitter**: [@openoctopus](https://x.com/openoctopus)
 - **Website**: [openoctopus.club](https://openoctopus.club)
 

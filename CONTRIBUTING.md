@@ -308,7 +308,7 @@ Help others in Discord, report bugs, suggest features, or participate in communi
 
 ## Questions?
 
-- **Discord:** [discord.gg/openoctopus](https://discord.gg/openoctopus) — ask in `#dev-general`
+- **Discord:** [discord.gg/mwNTk8g5fV](https://discord.gg/mwNTk8g5fV) — ask in `#dev-general`
 - **GitHub Discussions:** Open a discussion in the relevant repository
 - **Email:** hello@openoctopus.club
 

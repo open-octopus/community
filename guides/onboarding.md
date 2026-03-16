@@ -26,7 +26,7 @@ These five terms are foundational to OpenOctopus. They are always written in Eng
 
 ### Step 1: Join The Reef
 
-- **Discord:** [discord.gg/openoctopus](https://discord.gg/openoctopus) — our primary community hub
+- **Discord:** [discord.gg/mwNTk8g5fV](https://discord.gg/mwNTk8g5fV) — our primary community hub
 - **GitHub:** [github.com/open-octopus](https://github.com/open-octopus) — code, issues, and discussions
 
 ### Step 2: Introduce Yourself
@@ -112,7 +112,7 @@ See [EVENTS.md](../events/EVENTS.md) for details and schedules.
 |----------|-----|
 | Core Repository | https://github.com/open-octopus/openoctopus |
 | Website | https://openoctopus.club |
-| Discord | https://discord.gg/openoctopus |
+| Discord | https://discord.gg/mwNTk8g5fV |
 | RealmHub | https://github.com/open-octopus/realmhub |
 | Soul Gallery | https://github.com/open-octopus/soul-gallery |
 | Realm Packages | https://github.com/open-octopus/realms |

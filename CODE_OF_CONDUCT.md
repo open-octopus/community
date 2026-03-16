@@ -40,7 +40,7 @@ Community leaders have the right and responsibility to remove, edit, or reject c
 This Code of Conduct applies within all community spaces, including but not limited to:
 
 - The [OpenOctopus GitHub organization](https://github.com/open-octopus) and all its repositories
-- The Reef Discord server ([discord.gg/openoctopus](https://discord.gg/openoctopus))
+- The Reef Discord server ([discord.gg/mwNTk8g5fV](https://discord.gg/mwNTk8g5fV))
 - Community events such as Dev Standups, AMAs, Realm of the Week, and Summon of the Month
 - Official social media accounts and communications
 - Any other spaces where individuals are representing the OpenOctopus community

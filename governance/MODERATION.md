@@ -27,7 +27,7 @@ The Reef thrives when every member feels safe, respected, and welcome. This mode
 
 This policy applies to all OpenOctopus community spaces:
 
-- **Discord:** The Reef server ([discord.gg/openoctopus](https://discord.gg/openoctopus))
+- **Discord:** The Reef server ([discord.gg/mwNTk8g5fV](https://discord.gg/mwNTk8g5fV))
 - **GitHub:** All repositories under the [open-octopus](https://github.com/open-octopus) organization
 - **Other platforms:** Any official OpenOctopus communication channels, events, or spaces
 

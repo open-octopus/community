@@ -8,7 +8,7 @@ Complete guide to setting up and configuring The Reef — the official OpenOctop
 |---------|-------|
 | **Server Name** | The Reef |
 | **Description** | Official community for OpenOctopus — the realm-native life agent system |
-| **Invite Link** | `discord.gg/openoctopus` (Vanity URL, requires Boost Level 3) |
+| **Invite Link** | `discord.gg/mwNTk8g5fV` (Vanity URL, requires Boost Level 3) |
 | **Languages** | English |
 
 ## Creating the Server
