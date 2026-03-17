@@ -1,14 +1,14 @@
 # Welcome to The Reef
 
-Welcome to The Reef — the official community for [OpenOctopus](https://github.com/open-octopus/openoctopus), the realm-native personal life assistant Agent system.
+Welcome to The Reef — the official community for [OpenOctopus](https://github.com/open-octopus/openoctopus), the AI family home hub.
 
 Whether you are here to use OpenOctopus, build Realm packages, design Entity personalities, contribute code, or simply explore — you are in the right place.
 
 ## What is OpenOctopus?
 
-OpenOctopus organizes your life into autonomous domains called **Realms** — each with its own knowledge base, Agent team, and skill set. It provides a **Summon** mechanism to transform real-world entities (pets, people, assets, organizations) into living AI Agents with memory, personality, and proactive behavior.
+OpenOctopus organizes family life into autonomous domains called **Realms** — each with its own knowledge base, Agent team, and skill set. It provides a **Summon** mechanism to transform real-world entities (pets, parents, assets, organizations) into living AI Agents with memory, personality, and proactive behavior. The same family event reaches every member with role-appropriate context.
 
-Think of it as an octopus: the central body coordinates, while each tentacle (Realm) operates independently in its own domain, reaching into different areas of your life.
+Think of it as an octopus in your family group chat: the central body coordinates, while each tentacle (Realm) operates independently in its own domain, reaching into different areas of your family's life.
 
 ## The Five Core Concepts
 

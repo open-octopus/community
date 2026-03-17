@@ -25,7 +25,7 @@
 
 ## What is The Reef?
 
-**The Reef** is the official community for [OpenOctopus](https://github.com/open-octopus/openoctopus) — the realm-native life agent system. Named after a coral reef where diverse life thrives together, The Reef is where users, builders, and contributors gather to discuss realms, share summoned entities, build realm packages, and shape the future of AI life management.
+**The Reef** is the official community for [OpenOctopus](https://github.com/open-octopus/openoctopus) — the AI family home hub. Named after a coral reef where diverse life thrives together, The Reef is where users, builders, and contributors gather to discuss realms, share summoned entities, build realm packages, and shape the future of AI-powered family life management.
 
 This repository contains community policies, governance documents, and operational guides for The Reef.
 
