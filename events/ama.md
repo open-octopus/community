@@ -166,8 +166,8 @@ A: [Answer summary]
 
 ## Resources Mentioned
 
-- [Resource 1](link)
-- [Resource 2](link)
+- Resource 1: [title or URL]
+- Resource 2: [title or URL]
 
 ## Next AMA
 
